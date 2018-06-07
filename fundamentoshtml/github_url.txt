@@ -1,1 +1,3 @@
-https://github.com/davidbacca22/aplicaciones/tree/master/fundamentoshtml
+master: https://github.com/davidbacca22/aplicaciones/tree/master/fundamentoshtml
+
+Version 1.0: https://github.com/davidbacca22/aplicaciones/releases/tag/v1.0
